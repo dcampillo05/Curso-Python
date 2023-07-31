@@ -8,3 +8,4 @@ RADAR_RANGER = 1
 if velocidade > RADAR:
     print(f'Velocidade do carro passou do limite {RADAR}')
 #if local_carro >= (LOCAL1 - RADAR_RANGER) and 
+#Teste de commit
